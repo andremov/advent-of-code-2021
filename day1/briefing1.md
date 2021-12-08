@@ -5,7 +5,7 @@ As the submarine drops below the surface of the ocean, it automatically performs
 
 For example, suppose you had the following report:
 
-> 199
+> 199\n
 > 200
 > 208
 > 210
