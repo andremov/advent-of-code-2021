@@ -5,16 +5,16 @@ As the submarine drops below the surface of the ocean, it automatically performs
 
 For example, suppose you had the following report:
 
-> 199\n
-> 200
-> 208
-> 210
-> 200
-> 207
-> 240
-> 269
-> 260
-> 263
+>> 199
+>> 200
+>> 208
+>> 210
+>> 200
+>> 207
+>> 240
+>> 269
+>> 260
+>> 263
 
 This report indicates that, scanning outward from the submarine, the sonar sweep found depths of 199, 200, 208, 210, and so on.
 
